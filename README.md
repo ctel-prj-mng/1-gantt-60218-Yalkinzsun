@@ -13,4 +13,4 @@
 
 <h3> Результат выполнения работы </h3>
 
-![Диаграмма Гантта](https://github.com/ctel-prj-mng/1-gantt-60218-Yalkinzsun/blob/master/img/Gantt%20Chart.Skorobogatov.jpg)
+![Диаграмма Гантта](https://github.com/ctel-prj-mng/1-gantt-60218-Yalkinzsun/blob/master/img/Gantt%20Chart.Skorobogatov.K.jpg)
